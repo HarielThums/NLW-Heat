@@ -1,6 +1,6 @@
 # NLW-Heat
 
-O objetivo desse projeto é aprofundar conhecimentos no desenvolvimento backend com Node.js, Typescript, Prisma e Websocket.
+O objetivo desse projeto é aprofundar conhecimentos no desenvolvimento backend com Node.js, Typescript, Prisma e Websocket e autenticação com perfil do Github.
 
 ### Tecnologias :star: :
 - Typescript
