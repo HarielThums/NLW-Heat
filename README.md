@@ -20,7 +20,8 @@ O objetivo desse projeto é aprofundar conhecimentos no desenvolvimento backend 
 	- Insomnia ou Postman
 
 - Passo 1: Altere o nome do arquivo `.env.example` para `.env`
-- Passo 2: Adicione suas credenciais do Github ao arquivo `.env`, e um secret aleátorio (Pode ser gerado em `Settings > developer settings > OAuth Apps`)
+- Passo 2: Adicione suas credenciais do Github App ao arquivo `.env`
+  - (Credenciais podem ser geradas no github acessando: `Settings > developer settings > OAuth Apps`)
 - Passo 3: Rode o comando `yarn`
 - Passo 4: Rode o comando `yarn prisma migrate dev`
 - Passo 5: Rode `yarn dev`
