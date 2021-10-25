@@ -19,6 +19,8 @@ O objetivo desse projeto é aprofundar conhecimentos no desenvolvimento backend 
 	- Yarn
 	- Insomnia ou Postman
 
+<br/>
+
 - Passo 1: Altere o nome do arquivo `.env.example` para `.env`
 - Passo 2: Adicione suas credenciais do Github App ao arquivo `.env`
   - (Credenciais podem ser geradas no github acessando: `Settings > developer settings > OAuth Apps`)
