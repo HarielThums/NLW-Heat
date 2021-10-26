@@ -25,6 +25,5 @@ O objetivo desse projeto é aprofundar conhecimentos no desenvolvimento backend 
 - Passo 2: Adicione suas credenciais do Github App ao arquivo `.env`
   - (Credenciais podem ser geradas no github acessando: `Settings > developer settings > OAuth Apps`)
 - Passo 3: Rode o comando `yarn`
-- Passo 4: Rode o comando `yarn prisma migrate dev`
-- Passo 5: Rode `yarn dev`
-- Passo 6: Teste o projeto no seu insmonia ou postman.
+- Passo 4: Rode `yarn dev`
+- Passo 5: Teste o projeto no seu insmonia ou postman.
